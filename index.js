@@ -1,6 +1,6 @@
 const io = require("socket.io")(8800, {
   cors: {
-    origin: "https://ridewave-emd1.onrender.com",
+    origin: "https://master.d2js3xk7a7outs.amplifyapp.com",
   },
 });
 
